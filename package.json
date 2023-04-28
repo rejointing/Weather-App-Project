@@ -10,11 +10,21 @@
   "author": "Patience Fuglo",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "hbs": "^4.2.0",
     "request": "^2.88.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rejointing/Weather-App-Project.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/rejointing/Weather-App-Project/issues"
+  },
+  "homepage": "https://github.com/rejointing/Weather-App-Project#readme"
 }
